@@ -1,0 +1,12 @@
+User: FIC
+Password: fic132
+Prof: Paolo Bueno
+github.com/paolobueno
+
+Trazer as camisetas, teve patrocinadores que não apareceram.
+
+Intervalo: 20:10 até 20:30
+
+Recebimento de 2 kits da robocore - número do kit: 14
+\\172.16.10.25\Professores\CodeXP-IoT -- caminho da rede
+IDE: Integrated Development Environment
